@@ -1,5 +1,5 @@
 About the Project
-A simple web-based chat application built using Java and HTML/CSS/JavaScript. It allows users to communicate in real-time.
+  A simple web-based chat application built using Java and HTML/CSS/JavaScript. It allows users to communicate in real-time.
 
 Features
 - Real-time messaging interface
